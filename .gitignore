@@ -1,0 +1,5 @@
+﻿target/
+*.war
+*.log
+.DS_Store
+Thumbs.db
